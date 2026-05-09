@@ -1,8 +1,8 @@
-\# Podstawy programowania C++ - zadania i ćwiczenia
+\#Podstawy programowania C++ - zadania i ćwiczenia
 
 
 
-Wszystkie zadania są na stronie (https://piskorowskijakub.pl/course/Programowanie-w-C~p~p/)
+Wszystkie zadania są na stronie \[Zadania](https://piskorowskijakub.pl/course/Programowanie-w-C~p~p/)
 
 
 
