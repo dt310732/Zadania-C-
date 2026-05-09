@@ -2,7 +2,7 @@
 
 
 
-Wszystkie zadania są na stronie \[(https://piskorowskijakub.pl/course/Programowanie-w-C~p~p/)]
+Wszystkie zadania są na stronie (https://piskorowskijakub.pl/course/Programowanie-w-C~p~p/)
 
 
 
